@@ -13,10 +13,10 @@ export function Profile() {
       />
       <div className="flex flex-col">
         <span className="block text-sm font-semibold text-zinc-700 dark:text-zinc-100">
-          Diego Fernandes
+          Willians Ferreira
         </span>
         <span className="block text-sm text-zinc-500 dark:text-zinc-400">
-          diego.schell.f@gmail.com
+          wpessoal@outlook.com
         </span>
       </div>
       <Button variant="ghost" className="ml-auto">
